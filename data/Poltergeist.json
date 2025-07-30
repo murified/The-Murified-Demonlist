@@ -1,0 +1,18 @@
+{
+    "id": 7054561,
+    "name": "Poltergeist",
+    "author": "AndromedaGMD",
+    "creators": ["AndromedaGMD"],
+    "verifier": "Pillow112",
+    "verification": "https://www.youtube.com/watch?v=hyi1Chc42ZQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Pillow112",
+            "link": "https://www.youtube.com/watch?v=hyi1Chc42ZQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
